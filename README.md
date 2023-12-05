@@ -12,7 +12,7 @@ Hi, I'm Matias!
 
 <hr>
 💻 I am a self taught Full Stack Developer. <br>
-🔮 🔮 I currently work as a freelancer and I would like to be part of a group
+🔮  I currently work as a freelancer and I would like to be part of a group <br>
 📝 I have a strong interest in Game & Web development.  <br>
 🌟 Stack: LUA, JavaScript, PHP, HTML, CSS, Bootstrap, Tailwind, SQL, MongoDB.  <br>
 <hr>
