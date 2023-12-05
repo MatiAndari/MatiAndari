@@ -12,7 +12,7 @@ Hi, I'm Matias!
 
 <hr>
 💻 I am a self taught Full Stack Developer. <br>
-🔮 Currently working at <a href="https://hypersoniclaboratories.com/" target="_blank">Hypersonic Laboratories</a> as a Project Manager & Back-end Developer. <br>
+🔮 🔮 I currently work as a freelancer and I would like to be part of a group
 📝 I have a strong interest in Game & Web development.  <br>
 🌟 Stack: LUA, JavaScript, PHP, HTML, CSS, Bootstrap, Tailwind, SQL, MongoDB.  <br>
 <hr>
