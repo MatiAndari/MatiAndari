@@ -95,6 +95,22 @@ desde la primera pantalla hasta el deploy en producción.
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://gordis-burger.vercel.app"><img src="assets/gordis-burger.png" alt="Gordis Burger"/></a>
+      <h3><a href="https://gordis-burger.vercel.app">Gordis Burger</a></h3>
+      Pedidos online para hamburguesería: menú con combos, carrito y pago con Mercado Pago para retirar en el local.
+      <br/><br/>
+      <code>Next.js</code> <code>React</code> <code>Mercado Pago</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://the-head-shop-arg.vercel.app"><img src="assets/the-head-shop.png" alt="The Head Shop"/></a>
+      <h3><a href="https://the-head-shop-arg.vercel.app">The Head Shop</a></h3>
+      Tienda de glass y accesorios con catálogo por categorías y marcas, panel de administración y pedidos por WhatsApp.
+      <br/><br/>
+      <code>Next.js 16</code> <code>Drizzle</code> <code>Neon</code> <code>GSAP</code>
+    </td>
+  </tr>
 </table>
 
 ### Sistemas y herramientas internas
@@ -107,6 +123,11 @@ Código privado: trabajo para clientes y herramientas de [vm_webs](#-contacto). 
 | **vm_webs CRM + Bot** | Bot de Discord con CRM de clientes y dashboard con login OAuth2 | discord.js · Prisma · PostgreSQL |
 | **vm_webs Admin** | Panel interno: clientes, calendario, finanzas y presupuestos en PDF | Next.js · PostgreSQL |
 | **Percha** | Gestión de tienda de ropa: stock, ventas, consignación y finanzas | Next.js · TypeScript |
+| **Placard** | Gestión de ropa propia y de amigos en consignación | Next.js 16 · Prisma · SQLite |
+| **Monelos CRM** | CRM inmobiliario con publicación de propiedades en varios portales | React · TypeScript · Zustand |
+| **The Dab Club** | Rediseño de tienda online con catálogo real y checkout por WhatsApp | Next.js 16 |
+| **VM Office** | Oficina virtual isométrica para el equipo de vm_webs | React · TypeScript · Zustand |
+| **MANDATE** | Juego social de cartas que se juega desde varios celulares a la vez | Next.js 16 · TypeScript |
 | **Optimizer** | App de escritorio para optimizar Windows | Tauri · Rust · React |
 | **Calori** | App móvil de seguimiento de calorías | Expo · React Native · Supabase |
 
