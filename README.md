@@ -49,21 +49,12 @@ desde la primera pantalla hasta el deploy en producción.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://pereira-joyas.vercel.app"><img src="assets/pereira-joyas.png" alt="Pereira Joyas"/></a>
-      <h3><a href="https://pereira-joyas.vercel.app">Pereira Joyas</a></h3>
-      Joyería premium con colecciones, fichas de producto, favoritos y carrito.
-      <br/><br/>
-      <code>Next.js 16</code> <code>TypeScript</code> <code>Tailwind</code>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://kfc-landing-lilac.vercel.app"><img src="assets/kfc-landing-lilac.png" alt="KFC landing"/></a>
       <h3><a href="https://kfc-landing-lilac.vercel.app">KFC — Landing conceptual</a></h3>
       Concepto de landing de marca con animaciones encadenadas al hacer scroll.
       <br/><br/>
       <code>HTML</code> <code>CSS</code> <code>GSAP</code> <code>ScrollTrigger</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://gaona-decants.vercel.app"><img src="assets/gaona-decants.png" alt="Gaona Decants"/></a>
       <h3><a href="https://gaona-decants.vercel.app">Gaona Decants</a></h3>
@@ -71,6 +62,8 @@ desde la primera pantalla hasta el deploy en producción.
       <br/><br/>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://el-ferroviario-carta.vercel.app"><img src="assets/el-ferroviario-carta.png" alt="El Ferroviario"/></a>
       <h3><a href="https://el-ferroviario-carta.vercel.app">El Ferroviario — Carta digital</a></h3>
@@ -78,8 +71,6 @@ desde la primera pantalla hasta el deploy en producción.
       <br/><br/>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://keymex-tpi.vercel.app"><img src="assets/keymex-tpi.png" alt="KEYMEX"/></a>
       <h3><a href="https://keymex-tpi.vercel.app">KEYMEX Le Bleu — Diagnóstico</a></h3>
@@ -87,6 +78,8 @@ desde la primera pantalla hasta el deploy en producción.
       <br/><br/>
       <code>Next.js</code> <code>TypeScript</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://lopez-molina-web.vercel.app"><img src="assets/lopez-molina-web.png" alt="López Molina"/></a>
       <h3><a href="https://lopez-molina-web.vercel.app">López Molina Inmobiliaria</a></h3>
@@ -94,8 +87,6 @@ desde la primera pantalla hasta el deploy en producción.
       <br/><br/>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://gordis-burger.vercel.app"><img src="assets/gordis-burger.png" alt="Gordis Burger"/></a>
       <h3><a href="https://gordis-burger.vercel.app">Gordis Burger</a></h3>
@@ -103,6 +94,8 @@ desde la primera pantalla hasta el deploy en producción.
       <br/><br/>
       <code>Next.js</code> <code>React</code> <code>Mercado Pago</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://the-head-shop-arg.vercel.app"><img src="assets/the-head-shop.png" alt="The Head Shop"/></a>
       <h3><a href="https://the-head-shop-arg.vercel.app">The Head Shop</a></h3>
